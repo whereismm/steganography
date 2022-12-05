@@ -3,9 +3,9 @@
 ## Installation
 This project is on [NodeJS](https://nodejs.org/en/). You can install it from this repository directly:
 ```
-    git clone https://github.com/whereismm/steganography.git
-    cd steganography
-    npm update && npm run dev-build
+git clone https://github.com/whereismm/steganography.git
+cd steganography
+npm update && npm run dev-build
 ```
 ## Using
 ```
